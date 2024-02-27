@@ -1,3 +1,1 @@
-# BarberiaAlura
-
-archivo de curso
+<h1>Barberia Alura</h1>
